@@ -6,4 +6,4 @@ https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pk
 ## Description
 In this tutorial, we are building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction. 
 
-## Process
+## Project Overview
