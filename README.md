@@ -1,4 +1,4 @@
-# MachineLearningTutorials
+# Machine Learning Tutorials
 This repository is a collection of my notes and code while following along with various machine learning tutorials. The tutorials range from beginner-level to advanced, and cover a wide range of topics such as data preprocessing, model selection, and deep learning.
 
 Each tutorial includes a detailed step-by-step guide, code snippets, and explanations of the underlying concepts. The tutorials are written in Python and utilize popular machine learning libraries such as scikit-learn, TensorFlow, and Keras.
